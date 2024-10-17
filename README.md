@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi my friend 👋 Welcome to my personal journey book 📙 
+My nickname is CSC. I'm from University of Technology Sarawak (UTS) & currently studying on Bachelor of Computer Science &#128187;
 
-<!--
-**31Chiu/31Chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have interested in the IoT field &#128513; !!! Currently, I exploding the Raspberry Pi &#127827; & Arduino
 
-Here are some ideas to get you started:
+I love to join different organizations' event and competition &#129312;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Participated in events or competitions:
+- Young Innovators Challenge 2024 (YIC 2024)
+- NASA Space Apps Challenge 2024 (Sarawak)
+
+Tools: Visual Studio Code | Arduino IDE | GitHub
+
+- 🌱 I’m currently learning Raspberry Pi & Arduino
+- 📫 How to reach me: chiu_csc (Instagram)
+- 😄 Pronouns: He/Him/His
